@@ -34,7 +34,7 @@ Ciel supports NROM and AxROM games in version 0.1.0.
 
 # How to run games with Ciel
 
-To run games with Ceil, pass a ROM path as a command-line argument.
+To run games with Ciel, pass a ROM path as a command-line argument.
 
 ## Controls:
 * X key => A
